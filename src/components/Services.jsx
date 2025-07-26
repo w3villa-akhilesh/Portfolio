@@ -45,7 +45,6 @@ const Services = () => {
               {/* ✅ Use className instead of inline style */}
               <div className="absolute inset-0.5 bg-n-8 clip-benefits"></div>
 
-              <ClipPath />
             </div>
           ))}
         </div>

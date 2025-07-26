@@ -1,5 +1,4 @@
-// Place this high in your app (not inside a card or Section)
-const GlobalClipPaths = () => (
+const GlobalDefs = () => (
   <svg width="0" height="0" className="absolute">
     <defs>
       <clipPath id="benefits" clipPathUnits="objectBoundingBox">
@@ -8,4 +7,5 @@ const GlobalClipPaths = () => (
     </defs>
   </svg>
 );
-export default GlobalClipPaths;
+
+export default GlobalDefs;

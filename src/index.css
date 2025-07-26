@@ -88,5 +88,5 @@
 }
 
 .clip-benefits {
-  clip-path: url(/#benefits);
+  clip-path: url(#benefits);
 }
