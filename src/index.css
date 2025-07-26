@@ -86,3 +86,7 @@
 .-rotate-360 {
   @apply rotate-[-360deg];
 }
+
+.clip-benefits {
+  clip-path: url(/#benefits);
+}
