@@ -43,7 +43,7 @@ const Services = () => {
 
               <div
               className="absolute inset-0.5 bg-n-8"
-              style={{ clipPath: "url(#benefits)"}}>
+              style={{ clipPath: "url(/#benefits)"}}>
                 
               </div>
 
